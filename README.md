@@ -16,7 +16,7 @@ This countdown timer starts counting down from the moment the page is loaded to 
 
 ## Live Demo 
 ![Countdown Timer UI](image.png)
-![Countdown Timer UI](Screenshot 2025-08-04 164220.png)
+![Countdown Timer UI](Screenshot-2025-08-04-164220.png)
 
 
 ## 🛠️ Technologies Used
